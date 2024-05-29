@@ -1,0 +1,15 @@
+int max(float a,int b)
+{
+	
+	if();
+    else ;
+		if();
+		while(a){
+    if (a>b)
+		else;
+        if (a>c)
+            a=b;
+		}
+		else;
+			else;
+}

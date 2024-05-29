@@ -1,0 +1,32 @@
+
+int add(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int a, b, c, d, m, n, p, x;
+
+    a = 1;
+    b = 2;
+    c = 3;
+
+    x = (a + b * (c + d *(m - n))) / p;
+
+    if (x + b > 0 or a == 1) {
+        add(x, a);
+    } else {
+        break;
+    }
+    return x + a * c;
+}
+
+int err(float x, int c) {
+    int num1, num2;
+    num3 = num1 + num2;
+    float c;
+
+    test(num1, num2);
+    add(num1);
+
+    return 1;
+}

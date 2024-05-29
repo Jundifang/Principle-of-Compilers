@@ -1,0 +1,19 @@
+void main()
+{
+    float xyz, x1, _abc;
+    string s1="compiler";
+
+    xyz=23.45;
+    x1=(xyz+23)/45.2;
+
+    if(xyz>=x1 and _abc!=1.2 or x<=y+) 
+    {
+          while(xyz 123>xyz123)
+          {
+              break return
+          }
+     }
+    else
+        x=(y+z)/(m-n);
+
+}
