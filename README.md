@@ -1,9 +1,22 @@
 # Principle-of-Compilers
 ### Explainations of the repo
 
-![Code Content](/content.png)
+**Code content:**
+- demo
+  - demo.txt
+  - demo1.txt
+  - demo2.txt
+  - demoQ.txt
+  - demoG.txt
+- wordsAnalysis.cpp
+- grammarAnalysis.cpp 
+- semanticAnalysis.cpp
+- words_Output_File.cpp
+- output_words.txt
+
 
 **Note:**
+
 1.The txt files in `demo` folder is the demo of the compiler,whitch is up to you.Here i give five demo files: `demo.txt` , `demo1.txt` , `demo2.txt` , `demoQ.txt` and `demoG.txt`.
 (please don't mind the casual name~)
 
