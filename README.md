@@ -1,6 +1,8 @@
-[/README_CH.md][简体中文]/[README.md][English]
+
 
 # Principle-of-Compilers
+
+[简体中文](https://github.com/Jundifang/Principle-of-Compilers/blob/main/README_CH.md)/[English](https://github.com/Jundifang/Principle-of-Compilers/blob/main/README.md)
 
 ### Explainations of the repo
 
