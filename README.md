@@ -30,9 +30,10 @@
 `words_Output_File.cpp`
 
 - **Grammar Analysis**:
-
-- There might some potential bugs when tested with extremely tough tasks, so just take what you need from this, like design strategy or references. 
 `words_Output_File.cpp` -> `grammarAnalysis.cpp`
 
 - **Semantic Analysis**: 
 `words_Output_File.cpp` -> `semanticAnalysis.cpp`
+
+
+**There might some potential bugs when tested with extremely tough tasks, so just take what you need from this, like design strategy or references. **
